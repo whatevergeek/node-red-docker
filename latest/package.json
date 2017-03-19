@@ -29,7 +29,8 @@
         "node-red-node-base64": "*",
         "node-red-node-suncalc": "*",
         "node-red-node-random": "*",
-        "node-red-contrib-azureiothubnode": "*"
+        "node-red-contrib-azureiothubnode": "*",
+        "node-red-contrib-bean": "*"  
     },
     "engines": {
         "node": "4.*.*"
