@@ -30,7 +30,8 @@
         "node-red-node-suncalc": "*",
         "node-red-node-random": "*",
         "node-red-contrib-azureiothubnode": "*",
-        "node-red-contrib-bean": "*"  
+        "node-red-contrib-bean": "*",  
+        "node-red-contrib-wio-seeed": "*"
     },
     "engines": {
         "node": "4.*.*"
